@@ -1,6 +1,6 @@
 # 🛒 Sistema de Ventas, Inventarios y Facturación POS *(En Desarrollo)*
 
-Aplicación web en construcción desarrollada con **PHP y MySQL** sobre una interfaz administrativa basada en **AdminLTE / Bootstrap**. Este proyecto forma parte de mi formación práctica en Análisis y Desarrollo de Software (ADSO - SENA) y está enfocado en la gestión comercial, inventarios y facturación.
+Aplicación web en construcción desarrollada con **PHP y MySQL** sobre una interfaz administrativa basada en **AdminLTE / Bootstrap**. Este proyecto ES INICIATIA PROPIA, no forma parte de mi formación práctica en Análisis y Desarrollo de Software (ADSO - SENA) y está enfocado en la gestión comercial, inventarios y facturación.
 
 ## 🚧 Estado Actual del Proyecto
 * ✅ **Estructura base del proyecto:** Organización de carpetas principales (`app`, vistas base `index.php` / `index.html`).
